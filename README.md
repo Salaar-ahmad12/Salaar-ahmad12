@@ -20,8 +20,8 @@ I am a developer who believes in the power of the core web. I build fast, respon
 ---
 
 ### 📊 GitHub Stats
-![My Stats](https://github-readme-stats.vercel.app/api?username=[Salaar-ahmad12]&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Salaar-ahmad12]&layout=compact&theme=dark&hide_border=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username='Salaar-ahmad12'&show_icons=true&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username='Salaar-ahmad12'&layout=compact&theme=dark&hide_border=true)
 
 ---
 
