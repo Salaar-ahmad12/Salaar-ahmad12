@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋 
+# Hi there, I'm Salaar ahmad 👋 
 
 ### 💻 Vanilla Web Development Specialist
 I am a developer who believes in the power of the core web. I build fast, responsive, and lightweight applications using the fundamental building blocks of the internet. No frameworks—just clean, efficient code.
